@@ -1,0 +1,23 @@
+import React from "react";
+import { useSelector } from "react-redux";
+import VideoTitle from "./VideoTitle";
+import VideoBackGround from "./VideoBackGround";
+
+const MainContainer = () => {
+  const movies = useSelector((store) => store.movies?.nowPlayingMovies); //will have 20 movie but need 1 main movie here
+
+  if (!movies) return; // or shimmer loader (can show shimmmer effect too)[no movie in store then return]
+
+  const mainMovie = movies[0];//let first movie be main movie
+
+  const {original_title, overview, id} = mainMovie
+
+  return (
+    <div>
+      <VideoTitle title= {original_title} overview = {overview}/>
+      <VideoBackGround movieId = {id} />
+    </div>
+  );
+};
+
+export default MainContainer;
