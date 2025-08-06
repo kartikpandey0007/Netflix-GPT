@@ -15,3 +15,5 @@ export const MOVIE_TRAILER = {
     Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzZjhmYWQ3YzM5ZWU4MDA0ZGNjOWFhYjg3NjAzZjc3ZCIsIm5iZiI6MTc1NDMxNDk0MS4wMzMsInN1YiI6IjY4OTBiOGJkZDEyMDM4NmY4OTExZGU5OSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.PYHFT4FfjYwsH7YCdKKnkVWxIKSY6ckmuHOsxquKGS0'
   }
 };
+
+export const IMG_CDN = "https://image.tmdb.org/t/p/w500"
