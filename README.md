@@ -1,7 +1,7 @@
-# 🎬 Netflix-GPT  
+# Netflix-GPT  
 
 AI-powered Netflix assistant with **smart movie search and recommendations** using **Gemini APIs** and **TMDB APIs**.
-## 📸 Screenshot  
+## Screenshot  
 
 Netflix with AI Movie Search Feature  
 
@@ -11,12 +11,12 @@ Netflix with AI Movie Search Feature
 - **Frontend:** React.js, Redux, TailwindCSS  
 - **APIs:** Google Gemini API, TMDB API  
 - **Auth:** Firebase (Login/Signup)  
-## ✨ Features  
+## Features  
 
-- 🔑 **Secure Authentication** – Login/Signup with Firebase  
-- 🎥 **AI Movie Search** – Smart recommendations powered by Gemini API  
-- 🎞 **Real-time Movie Data** – Integrated with TMDB API  
-- 📱 **Responsive UI** – Works on desktop and mobile  
+- **Secure Authentication** – Login/Signup with Firebase  
+- **AI Movie Search** – Smart recommendations powered by Gemini API  
+- **Real-time Movie Data** – Integrated with TMDB API  
+- **Responsive UI** – Works on desktop and mobile  
 ## Setup
 
 1. Clone repo
