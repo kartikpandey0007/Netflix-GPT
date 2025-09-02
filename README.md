@@ -9,7 +9,6 @@ Netflix with AI Movie Search Feature
 ## 🛠 Tech Stack  
 
 - **Frontend:** React.js, Redux, TailwindCSS  
-- **Backend:** Node.js, Express.js  
 - **APIs:** Google Gemini API, TMDB API  
 - **Auth:** Firebase (Login/Signup)  
 ## ✨ Features  
@@ -18,8 +17,8 @@ Netflix with AI Movie Search Feature
 - 🎥 **AI Movie Search** – Smart recommendations powered by Gemini API  
 - 🎞 **Real-time Movie Data** – Integrated with TMDB API  
 - 📱 **Responsive UI** – Works on desktop and mobile  
-
 ## Setup
+
 1. Clone repo
 2. `npm install`
 3. `npm run start`
