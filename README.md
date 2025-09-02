@@ -24,5 +24,5 @@ Netflix with AI Movie Search Feature
 2. `npm install`
 3. `npm run start`
    
-cd Netflix-GPT
+
 
