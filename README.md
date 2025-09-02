@@ -6,7 +6,7 @@ AI-powered Netflix assistant with **smart movie search and recommendations** usi
 Netflix with AI Movie Search Feature  
 
 <img width="100%" alt="Netflix-GPT Screenshot" src="https://github.com/user-attachments/assets/cceec765-8a6f-4f42-b606-cba75c1c02d4" />
-## 🛠 Tech Stack  
+ 🛠 Tech Stack  
 
 - **Frontend:** React.js, Redux, TailwindCSS  
 - **APIs:** Google Gemini API, TMDB API  
